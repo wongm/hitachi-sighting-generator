@@ -1,0 +1,181 @@
+#header { height:130px;background:#F2F2F2 url('b.gif') repeat-x 0% 105%; }
+#headborder { background:#F2F2F2 url('b.gif') repeat-x 0% 0%; }
+#footermgh { background:#F2F2F2;border:2px dotted #000000;text-align:center; }
+.opentable { background-color:#dddddd;border:solid 1px #151515; }
+.block { background-color:#dddddd;border:solid 1px #151515; }
+#contenthalf { position:absolute;top:130px;left:158px;right:158px; }
+#contentfull { position:absolute;top:130px;left:158px;right:0px; }
+#contentwide { position:absolute;top:130px;left:0px;right:0px; }
+#slogan { display:none; }
+
+FONT {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+TD {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+BODY {margin:0px;padding:0px;background-color:#f2f2f2;FONT-FAMILY:Verdana,Helvetica;FONT-SIZE:11px;scrollbar-face-color:#f2f2f2;scrollbar-arrow-color:#7da3cf;scrollbar-track-color:#ddd;scrollbar-shadow-color:#ccc;scrollbar-highlight-color:#f2f2f2;scrollbar-3dlight-color:#fff;scrollbar-darkshadow-color:#aaa; }
+P {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+DIV {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+INPUT {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+TEXTAREA {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+FORM {FONT-FAMILY:Verdana,Lucidasans,Helvetica;FONT-SIZE:11px}
+A:link {COLOR:#000000;TEXT-DECORATION:underline}
+A:active {COLOR:#ff0000;TEXT-DECORATION:underline}
+A:visited {COLOR:#000000;TEXT-DECORATION:underline}
+A:hover {COLOR:#000080;TEXT-DECORATION:none;}
+
+hr { color:#000000; }
+.tpshadow {FILTER:dropShadow(color: #999999, offx=5, offy=5)}
+.slogan {BACKGROUND:none;COLOR:#000000;FONT-SIZE:14px;FONT-WEIGHT:900;TEXT-DECORATION:none}
+.title {BACKGROUND:none;COLOR:#000000;FONT-SIZE:13px;FONT-WEIGHT:bold;TEXT-DECORATION:none}
+.ticktext {COLOR:#ffffff;FONT-SIZE:11px;FONT-WEIGHT:bold;FONT-FAMILY:Verdana,Courier New, Courier}
+.tkfineprint {FONT-SIZE:9px;padding-top:4px;}
+.tkimg {position:relative;top:1px;}
+.tkbg { border:solid 1px #000000;text-align:center;background:transparent url('h3.gif') repeat-x 0% 0%;letter-spacing:2px;color:#ffffff;font-weight:bold; }
+.content {BACKGROUND:none;COLOR:#000000;FONT-SIZE:11px;}
+.storytitle {BACKGROUND:none;FONT-SIZE:14px;FONT-WEIGHT:bold;TEXT-DECORATION:none}
+.storycat {BACKGROUND:none;FONT-SIZE:13px;FONT-WEIGHT:bold;FONT-FAMILY:Verdana, Helvetica}
+.boxtitle {BACKGROUND:none;COLOR:#252525;FONT-SIZE:13px;FONT-WEIGHT:500;TEXT-DECORATION:none}
+.boxcontent {BACKGROUND:none;COLOR:#000000;FONT-SIZE:12px}
+.option {BACKGROUND:none;FONT-SIZE:13px;FONT-WEIGHT:bold;TEXT-DECORATION:none}
+.tiny {BACKGROUND:none;COLOR:#000000;FONT-SIZE:10px;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.footmsg {BACKGROUND:none;COLOR:#000000;FONT-SIZE:9px;FONT-WEIGHT:normal;TEXT-DECORATION:none}
+.footmsg_l {BACKGROUND:none;FONT-SIZE:9px;FONT-WEIGHT:normal}
+.box {FONT-SIZE:11px;border:1px solid #000000;background-color:#FFFFFF}
+.sommairetd { font-size: 8px; }
+.admingen { font-size:8pt;color:#fff;position:absolute;right:5px;top:5px;border:solid 1px #000;background:#000080 url('h3.gif') repeat-x;padding:2px;font-weight:bold; }
+/
+.b_h { text-align:center;height:25px;background:transparent url('h.gif') repeat-x 0% 0%;padding-bottom:6px;letter-spacing:2px;color:#ffffff;font-weight:bold; }
+.b_hs { text-align:center;height:18px;background:transparent url('h3.gif') repeat-x 0% 0%;letter-spacing:2px;color:#ffffff;font-weight:bold; }
+.b_sh { width:148px;height:25px;text-align:center;background:transparent url('sh.gif') repeat-x 0% 0%;padding-top:3px;letter-spacing:2px;color:#000080;font-weight:bold;margin-top:5px; }
+.b_s_d { height:15px;background:transparent url('bx.gif') repeat-x 0% 0%; }
+.b_s_sh { height:25px;text-align:center;background:transparent url('sh.gif') repeat-x 0% 0%;padding-bottom:5px;letter-spacing:2px;color:#000080;font-weight:bold; }
+.b_h_s { cursor:pointer; }
+.b_s_m { list-style-image:url('s.gif');padding-bottom:5px;padding-left:20px;margin-left:0px;font-weight:bold;letter-spacing:0px; }
+.b_s_mi { list-style-image:url('sa.gif');padding-bottom:5px;padding-left:20px;margin-left:0px;font-weight:bold;letter-spacing:0px; }
+.b_s_ma { list-style-image:url('sr.gif');padding-bottom:5px;padding-left:20px;margin-left:0px;font-weight:bold;letter-spacing:0px; }
+a.b_l_h, a.b_l_h:link, a.b_l_h:visited, a.b_l_h:active { letter-spacing:2px;color:#ffffff;font-weight:bold;text-decoration:none;display:block;padding-top:2px;padding-bottom:3px; }
+a.b_l_h:hover { color:#dddddd; }
+.b_u_u { margin-left:2px;height:200px;overflow:auto; }
+ul.sp { padding-bottom:5px;padding-left:20px;margin-left:0px;letter-spacing:0px; }
+li.r { list-style-image:url('sr.gif'); }
+li.g { list-style-image:url('s.gif');}
+li.y { list-style-image:url('sa.gif'); }
+li.ga { list-style-image:url('sani.gif'); }
+/
+li.pr { list-style-image:url('pr.gif'); }
+li.pm { list-style-image:url('pm.gif'); }
+li.e { list-style-image:url('e.gif'); }
+li.w { list-style-image:url('www.gif'); }
+li.msn { list-style-image:url('msn.gif'); }
+li.aim { list-style-image:url('aim.gif'); }
+li.yim { list-style-image:url('yim.gif'); }
+li.icq { list-style-image:url('icq.gif'); }
+/
+li.q { list-style-image:url('q.gif'); }
+li.ed { list-style-image:url('ed.gif'); }
+li.d { list-style-image:url('x.gif'); }
+li.ip { list-style-image:url('ip.gif'); }
+/
+ul.pd { padding-bottom:5px;padding-left:20px;margin-left:0px;font-weight:bold; }
+
+div.f_po { width:150px;text-align:center;padding-top:2px;padding-bottom:3px;background:transparent url('sh2.gif') repeat-x 0% 0%;letter-spacing:2px;color:#000080;font-weight:bold;border:solid 1px #000000;cursor:pointer; }
+/
+.m_pad { padding:7px; }
+
+font,th,td,p { font-family:Verdana, Arial, Lucidasans, Helvetica, sans-serif }
+hr.f	{ height:0px;border:solid #dddddd 0px;border-top-width:1px;}
+.bodyline	{ background-color:#FFFFFF;border:1px #98AAB1 solid; }
+.forumline	{ background-color:#FFFFFF;border:2px #006699 solid; }
+.row1	{ background-color:#F2F2F2; }
+.row2	{ background-color:#f2f2f2; }
+.row3	{ background-color:#ECECEC; }
+td.rowx { background-color:#F2F2F2;padding:10px;cursor:pointer;border:solid 1px #f2f2f2; }
+td.rowx:hover { background-color:#ECECEC;border:solid 1px #ddd; }
+td.rowx:active { background-color:#ddd;border:solid 1px #bbb; }
+td.rowy { background:#F2F2F2 url('bg.gif') repeat-y 50% 0%; }
+td.rowz { background:#F2F2F2 url('bg1.gif') repeat-y 50% 0%; }
+td.rowpic { background-color:#FFFFFF;background-image:url(cellpic1.gif); }
+th { color:#ffffff;font-size:11px;font-weight:bold;height:25px;background-image:url(cellpic3.gif); }
+td.cat,td.catHead,td.catSides,td.catLeft,td.catRight,td.catBottom { background-image:url(cellpic1.gif);background-color:#ECECEC;border:#FFFFFF;border-style:solid;height:28px; }
+td.cat,td.catHead,td.catBottom { height:29px;border-width:0px 0px 0px 0px; }
+th.thHead,th.thSides,th.thTop,th.thLeft,th.thRight,th.thBottom,th.thCornerL,th.thCornerR { font-weight:bold;border:#FFFFFF;border-style:solid;height:28px; }
+td.row3Right { background-color:#ececec;border:#FFFFFF;border-style:solid; }
+td.spaceRow { height:9px;background:#f2f2f2 url(ps.gif) repeat-x;border-left:solid 1px #909090;border-right:solid 1px #909090; }
+/
+th.thHead,td.catHead { font-size:12px;border-width:1px 1px 0px 1px; }
+th.thSides,td.catSides,td.spaceRow { border-width:0px 1px 0px 1px; }
+th.thRight,td.catRight,td.row3Right { border-width:0px 1px 0px 0px; }
+th.thLeft,td.catLeft	  { border-width:0px 0px 0px 1px; }
+th.thBottom,td.catBottom  { border-width:0px 1px 1px 1px; }
+th.thTop	 { border-width:1px 0px 0px 0px; }
+th.thCornerL { border-width:1px 0px 0px 1px; }
+th.thCornerR { border-width:1px 1px 0px 0px; }
+
+/*
+a.maintitle { font-weight:bold;font-size:22px;font-family:"Trebuchet MS", Verdana, Arial, Lucidasans, Helvetica, sans-serif;text-decoration:none;line-height:120%; }
+a.maintitle:visited, a.maintitle:active, a.maintitle:link { text-decoration:none; }
+a.maintitle:hover { text-decoration:underline; }
+*/
+a.maintitle {
+font-weight: normal;
+font-size: 25px;
+font-family: 'Lucida Sans Unicode', Calibi, Arial, Helvetica, sans-serif;
+text-decoration: none !important;
+line-height: 120%;
+letter-spacing: -2px;
+}
+a.maintitle:hover { text-decoration: underline !important; }
+
+.gen { font-size:12px; }
+.genmed { font-size:11px; }
+.gensmall { font-size:10px; }
+.gen,.genmed,.gensmall { color:#000000; }
+
+.cattitle { font-weight:bold;font-size:12px;letter-spacing:1px; }
+a.cattitle { text-decoration:none; }
+a.cattitle:hover { text-decoration:underline; }
+a.cattitle:visited { text-decoration:none; }
+
+.forumlink { font-weight:bold;font-size:12px; }
+a.forumlink:link { text-decoration:none; }
+a.forumlink:visited { text-decoration:none; }
+a.forumlink:hover { text-decoration:underline; }
+
+.nav  { font-weight:bold;font-size:11px;}
+
+.topictitle,h1,h2 { font-weight:bold;font-size:11px; }
+a.topictitle:link { text-decoration:none; }
+a.topictitle:visited { text-decoration:none; }
+a.topictitle:hover { text-decoration:underline; }
+
+.name { font-size:11px; }
+.postdetails { font-size:10px; }
+.postbody { 
+font-size:12px;
+line-height:18px; 
+/*
+font-family: Tahoma, Calibri, Verdana, Arial, Helvetica, sans-serif;
+*/
+}
+
+.code { font-family:Courier, 'Courier New', sans-serif;font-size:11px;color:#006600;}
+
+.quote { font-family:Verdana, Arial, Helvetica, sans-serif;font-size:11px;color:#444444;line-height:125%;background-color:#FAFAFA;border:#D1D7DC;border-style:solid;border-left-width:1px;border-top-width:1px;border-right-width:1px;border-bottom-width:1px }
+
+.copyright { font-size:10px;font-family:Verdana, Arial, Helvetica, sans-serif;color:#444444;letter-spacing:-1px; }
+a.copyright:link, a.copyright:visited, a.copyright:active { color:#444444;text-decoration:none;}
+a.copyright:hover { text-decoration:underline; }
+
+input,textarea, select { color:#000000;font:normal 11px Verdana, Arial, Helvetica, sans-serif; }
+
+input.post, textarea.post, select { background-color:#FFFFFF; }
+
+input { text-indent:2px; }
+input.button { background-color:#EFEFEF;color:#000000;font-size:11px;font-family:Verdana, Arial, Helvetica, sans-serif; }
+input.mainoption { background-color:#FAFAFA;font-weight:bold; }
+input.liteoption { background-color:#FAFAFA;font-weight:normal; }
+
+.helpline { background-color:#f2f2f2;border-style:none; }
+
+/* MGH addons 16/08/05 */
+.pollbgtop { background:#E4E4E4 url(pollbgtop.gif) repeat-x scroll 0% 0%; }
+/
+@import url("/templates/forums/formIE.css");

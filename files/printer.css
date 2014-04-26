@@ -1,0 +1,11 @@
+#contenthalf, #contentfull {
+left:0;right:0;
+}
+
+#addiv, #blocks_left, #blocks_right, #f_vt1, #f_vt2, #f_vt3, #f_vt4, #f_vt5, #f_vt6, #f_tools, div.f_po {
+visibility:hidden;display:none;
+}
+
+#slogan {
+visibility:visible;display:inline;
+}

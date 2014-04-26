@@ -1,0 +1,5 @@
+#blocks_right { right:12;float:right; }
+.block { -moz-border-radius-bottomleft:10px;-moz-border-radius-bottomright:10px; }
+.opentable { -moz-border-radius:10px; }
+.noround { -moz-border-radius:0px;-moz-border-radius-bottomleft:0px;-moz-border-radius-bottomright:0px; }
+ul { margin-bottom: 0px; }
