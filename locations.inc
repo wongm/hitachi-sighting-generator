@@ -216,7 +216,7 @@ Aircraft
 ^Spencer St. Layby Sidings
 ^Long Island
 ^Long Island Junction
-^MMacaulay Light Repair Centre
+^Macaulay Light Repair Centre
 ^Macaulay Stabling Sidings
 ^Melbourne Yard Stabling Sidings
 ^North Melbourne Stabling Sidings
